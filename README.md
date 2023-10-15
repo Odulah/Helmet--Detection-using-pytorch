@@ -1,4 +1,4 @@
-# Helmet-Detection-PyTorch
+# Helmet-Detection-Using-PyTorch
 
 ### Donwload data from here:
 
